@@ -1,5 +1,5 @@
 <?php 
-
+// hello this first program
 
 	if($_SERVER['REQUEST_METHOD']=="POST"){
 $con=mysqli_connect("localhost","root","","api")or die(mysql_error());
