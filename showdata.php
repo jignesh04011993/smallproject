@@ -1,5 +1,6 @@
 <?php 
 // hello this first program
+//second commit
 
 	if($_SERVER['REQUEST_METHOD']=="POST"){
 $con=mysqli_connect("localhost","root","","api")or die(mysql_error());
